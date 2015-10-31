@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string name="app_name">Appy Geek AdAway</string>
+	<string name="description">Remove Ads from Appy Geek</string>
+	<string name="removeFullscreenAds">Remove Fullscreen Ads</string>
+	<string name="removeListAds">Remove List Ads</string>
+	<string name="toastRestart">App restart required</string>
+</resources>
