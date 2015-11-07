@@ -1,5 +1,5 @@
 # Appy Geek AdAway
-This Xposed Module removes Ads from Appy Geek using the <a href="http://repo.xposed.info/">Xposed Framework</a>.
+This Xposed Module removes Ads from <a href="https://play.google.com/store/apps/details?id=com.mobilesrepublic.appygeek">Appy Geek</a> using the <a href="http://repo.xposed.info/">Xposed Framework</a>.
 
 Its current capabilities are limited to removing fullscreen Ads shown when the App is started. Remove list Ads planned, but I can't give an ETA.
 
